@@ -1,1 +1,1 @@
-# Ruby-score
+# Ruby-score.
